@@ -1,0 +1,76 @@
+body {
+    background-image: url("images/Light-blue-pattern-seamless-background-vector-452x336.jpg");
+}
+
+.gameTitle {
+
+ padding: 15px;
+ background-color: #BE7537;
+ height: 20%;
+ width: 22%;
+ color: white;
+
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.instructionBox {
+
+ padding-top: 15px;
+ background-color: #F8E7CF;
+ height: 110%;
+ width: 36%;
+ color: #219821;
+ font-weight: bold;
+ padding-bottom: 120px;
+ padding-left: 5px;
+ 
+
+}
+
+.randomNumberBox {
+
+    margin-top: 1%;
+    background-color: #78C586;
+    height: 20%;
+    width: 17%;
+    color: #360a5f;
+    padding-bottom: 90px;
+    font-size: 25px;
+    padding-left: 4px;
+    float: left;
+}
+
+.scoreInfoBox {
+    margin-top: 1%;
+    margin-left: 1%;
+    padding-top: 28px;
+    background-color: #82F9FC;
+    flex: 1;
+    width: 6.5%;
+    color: #360a5f;
+    padding-bottom: 70px;
+    font-size: 19px;
+    padding-left: 20px;
+    float: left;
+}
+
+img {
+    width: 11%;
+    height: 11%;
+    background-color: white;
+    margin-right: 5px;
+    margin-top: 3px;
+}
+.scoreText, .currentScoreNum {
+
+    width: 31%;
+    color: white;
+    background-color: #51A094;
+}
+
+.currentScoreNum {
+    padding-bottom: 6%;
+}
